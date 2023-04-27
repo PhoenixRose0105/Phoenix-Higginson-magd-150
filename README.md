@@ -1,4 +1,4 @@
-# Phoenix-magd-150
+## Phoenix Higginson-magd-150
 
 ### Assignment 4
 [Assignment 4.zip](https://github.com/PhoenixRose0105/Phoenix-magd-150/files/11345986/Assignment.4.zip)
@@ -23,6 +23,7 @@ Finally, there are repeating dark purple slashes across the top which meets the 
 [Assignment 5.zip](https://github.com/PhoenixRose0105/Phoenix-magd-150/files/11346789/Assignment.5.zip)
 
 Assignment 5 requirements were to have:
+* The weight of each area listed
 * The composition within the theme of a tv or desktop computer
 * Add a minimum of two buttons (a rectangle and an ellipse) that used the _mouseClicked()_ or _mousePressed()_ functions. It also required testing the position of the mouse compared to the boundary of the shapes with the _mouseX_ and _mouseY_ functions.
 * Add another button that used the _keyPressed()_ function
@@ -31,6 +32,8 @@ Assignment 5 requirements were to have:
   * A color scheme with a max of five colors
   * Alignment, proximity, similarity of elements in the composition
   * Scale and proportion
+
+Unfortunately, I missed the first requirement.
 
 To be within the theme, I created a tv on a flat surface.
 
@@ -41,3 +44,22 @@ In the upper right hand corner of the tv, there is a third button. It changes fr
 The three buttons and tv screen all utilize the _if_ function.
 
 Finally, there is a total of four colors with a variation of two colors. There are two shades of brown, two shades of gray, red, and green.
+
+
+
+### Assignment 6
+[Assignment 6.zip](https://github.com/PhoenixRose0105/Phoenix-magd-150/files/11347031/Assignment.6.zip)
+
+Assignment 6 requirements were to:
+* Have a theme of halloween, retro games, or nature
+* Create and assign values to an array
+* Use the _print_ function to determine the length of the created array
+* Create an array and assign values to the array using a _for_ loop
+* Create motion using values from an array by using a _for_ loop that included an array value as one of the positions for the shape
+* Set a value in the array to the current mouse position value
+
+The theme I chose was nature which met the first requirement. It shows a sun moving across a blue sky behind a flower sprouting from a pot.
+
+I created an array which was used for the movement of the sun, the flower, and the pink circle that follows the mouse cursor. This meets requirements 2, 4, 5, and 6.
+
+Finally, for the third requirement, I have the _print_ function set up to show the array lengths.
