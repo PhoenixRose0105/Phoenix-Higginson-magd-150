@@ -1,4 +1,7 @@
-## Phoenix Higginson-magd-150
+# Phoenix Higginson-magd-150
+
+This is a repository for the MAGD 150 Github Project meant to display a few previous assignments.
+
 
 ### Assignment 4
 [Assignment 4.zip](https://github.com/PhoenixRose0105/Phoenix-magd-150/files/11345986/Assignment.4.zip)
@@ -83,8 +86,3 @@ For the audio file, I included an .mp3 of a cat meow which could be played by pr
 For the fourth and fifth requirement, I included the oscillator and visual animations. As the mouse is moved over the canvas, the oscillator changes and the waves respond.
 
 Finally, I included the use of the camera with the invert filter applied.
-=======
-# Phoenix Higginson-magd-150
-
-This is a repository for the MAGD 150 Github Project meant to display a few previous assignments.
-
