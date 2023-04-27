@@ -63,3 +63,23 @@ The theme I chose was nature which met the first requirement. It shows a sun mov
 I created an array which was used for the movement of the sun, the flower, and the pink circle that follows the mouse cursor. This meets requirements 2, 4, 5, and 6.
 
 Finally, for the third requirement, I have the _print_ function set up to show the array lengths.
+
+
+
+### Assignment 9
+[Assignment 9.zip](https://github.com/PhoenixRose0105/Phoenix-magd-150/files/11347151/Assignment.9.zip)
+
+Assignment 9 requirements were to:
+* Create or locate an audio file in the .wav, .aiff, or .mp3 format
+* Load an audio file
+* Play, pause, or loop the audio file
+* Have an oscillator to create a 'sine' wave sound
+* Create shapes, lines, or points to animate the 'sine' wave sound
+* Access the webcam
+* Apply a filter to the webcam video output
+
+For the audio file, I included an .mp3 of a cat meow which could be played by pressing a key via the _keyIsPressed_ function. This also meets the second and third requirements.
+
+For the fourth and fifth requirement, I included the oscillator and visual animations. As the mouse is moved over the canvas, the oscillator changes and the waves respond.
+
+Finally, I included the use of the camera with the invert filter applied.
